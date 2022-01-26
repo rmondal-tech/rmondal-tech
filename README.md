@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul Mondal - an ECM Opentext Documentum ,Generis CARA ,Java Consultant
+- 👋 Hi, I’m Rahul Mondal - an ECM Opentext Documentum ,D2, Generis CARA ,Java Consultant
 - 👀 I’m interested in Enterprie Contenet Management, Java ,Spring, MicroServices, Cloud Computing
 - 🌱 I’m currently learning Cloud Computing- AWS, DevOpps
 - 📫 How to reach me ...
